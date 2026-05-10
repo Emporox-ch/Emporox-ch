@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate web developer and Bachelor in Computer Application (BCA) student at Patan Multiple Campus with experience in teaching, data entry, frontend development, and full-stack training. Worked as a Frontend Intern at Treeleaf Technologies Pvt. Ltd.<br> and I am  currently a Full-Stack Trainee at LamiraiTech<br>.
+I am passionate web developer and Bachelor in Computer Application (BCA) student at Patan Multiple Campus with experience in teaching, data entry, frontend development, and full-stack training. Worked as a Frontend Intern at Treeleaf Technologies Pvt. Ltd.<br> I am  currently a Full-Stack Trainee at LamiraiTech.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amrit.chaps/) 
